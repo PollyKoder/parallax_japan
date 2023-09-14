@@ -33,5 +33,8 @@ NB: Denne oppgaven trenger ikke header og footer, i hovedsak er dette en side so
   - Har holdet med unna <picture> da vi opplevde problemer når vi ble undervist og venter på tilbakemelding ang løsning.
   - Korrigerte bakgrunnsfarge til å samsvare med det Japanske flagget.
   - Audio: Musikk laget av Aleksey Chistilin  hentet fra Pixabay, låtnavn: Inspiring Cinematic Asia.
-  - Video: hentet fra youtube, fra kanal "The Travel Intern".
-  - prøver å justere iframe width og height, fjerner all justering om det ikkje virker. ...Later ikke til å utgjøre store forskjeller, men jeg lar justering bli i koden. Usikker på om width og height justering i html har gjort noen forskjell, men fikk juster størrelse i css.
+  - Video: fra youtube-kanal "rj aguirre"
+  (første video som ble tatt ut av koden: hentet fra youtube, fra kanal "The Travel Intern".)
+
+  - Prøver å justere iframe width og height, fjerner all justering om det ikkje virker. ...Later ikke til å utgjøre store forskjeller, men jeg lar justering bli i koden. Usikker på om width og height justering i html har gjort noen forskjell, men fikk juster størrelse i css.
+  - Var ikke fornøyd med første videoen eg fant, så gikk på let etter ny... Når eg fant ny video, ser jeg at mine justeringer i iframe taggen utgjør en forskjell i sammenheng med css height width justeringen. 
