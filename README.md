@@ -26,3 +26,6 @@ NB: Denne oppgaven trenger ikke header og footer, i hovedsak er dette en side so
   - Tema: Unus Annus
 
   - Helomvending: Da jeg kom over flere komplikasjoner med første prosjektet bestemte jeg meg for å lage en enklere nettside med et annet tema. Denne siden har temaet Japan.
+  - Sliter med at h1 of h2 elemeter blir veldig små og vet ikke hvorfor, har juster størrelse i css.
+  - margin-bottom i iframe (css) var ikke med på å ha main backgrunnsfargen, fungerte greit når jeg la inn en <br> etter iframe taggen. 
+  - Har prøvd å gjøre koden noe tørrere, var bare litt tekst i tillegg til bilde css som kunne komprimeres så vidt jeg ser.
