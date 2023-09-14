@@ -1,0 +1,43 @@
+.parallaxImage {
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.parallaxImg1 {
+    height: 1800px;
+    background-image: url("YamaTemple_background.jpg");
+}
+
+.parallaxImg2 {
+    height: 800px;
+    background-image: url("ToriGate_background.jpg");
+}
+
+.parallaxImg3 {
+    height: 800px;
+    background-image: url("Gesiha_background.jpg");
+}
+
+h1 {
+    background-color: rgba(225, 225, 225, 0.9);
+    padding: 14px 20px 14px 20px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 50px;
+}
+
+.information {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 0px;
+}
+
+.content {}

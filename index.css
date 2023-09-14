@@ -1,0 +1,76 @@
+
+/*
+.flexContainer {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    align-items:flex-end;
+    flex-wrap:wrap;
+}
+
+.flexItem {
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around;
+    align-items:center;
+    height:100px;
+    width:100px;
+    background-color:red;
+    gap:20px;
+}
+
+.flexItem-two {
+    height:100px;
+    width:100px;
+    background-color:brown;
+}
+*/
+
+.parallaxImg1 {
+    height: 100vh;
+    background-image: url("YamaTemple_background.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.parallaxImg2 {
+    height: 100vh;
+    background-image: url("ToriGate_background.jpg");
+    background-attachment:fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.parallaxImg3 {
+    height: 100vh;
+    background-image: url("Gesiha_background.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: fixed;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.information {
+    max-width: 500px;
+}
+
