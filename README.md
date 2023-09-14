@@ -25,7 +25,13 @@ NB: Denne oppgaven trenger ikke header og footer, i hovedsak er dette en side so
   - Konklusjon: forløpig css kode går ut fra parallax effecten vi lærte å kode mandag 11 sept, søker opp andre måter å gjøre effekten på, kanskje jeg kan få den til å oppføre seg som en tetris block? (-!_i-!, utropstegn og "i" indikerer loddrett linje, med prikken som "pilrettning")
   - Tema: Unus Annus
 
-  - Helomvending: Da jeg kom over flere komplikasjoner med første prosjektet bestemte jeg meg for å lage en enklere nettside med et annet tema. Denne siden har temaet Japan.
+  # Helomvending: 
+  - Da jeg kom over flere komplikasjoner med første prosjektet bestemte jeg meg for å lage en enklere nettside med et annet tema. Denne siden har temaet Japan. Vil påpeke at eg har kopiert tekstene fra nettsteder som wikipedia og albatros.no, da jeg har fokusert på min kode prosess i dette proskjektet. 
   - Sliter med at h1 of h2 elemeter blir veldig små og vet ikke hvorfor, har juster størrelse i css.
   - margin-bottom i iframe (css) var ikke med på å ha main backgrunnsfargen, fungerte greit når jeg la inn en <br> etter iframe taggen. 
   - Har prøvd å gjøre koden noe tørrere, var bare litt tekst i tillegg til bilde css som kunne komprimeres så vidt jeg ser.
+  - Har holdet med unna <picture> da vi opplevde problemer når vi ble undervist og venter på tilbakemelding ang løsning.
+  - Korrigerte bakgrunnsfarge til å samsvare med det Japanske flagget.
+  - Audio: Musikk laget av Aleksey Chistilin  hentet fra Pixabay, låtnavn: Inspiring Cinematic Asia.
+  - Video: hentet fra youtube, fra kanal "The Travel Intern".
+  - prøver å justere iframe width og height, fjerner all justering om det ikkje virker. ...Later ikke til å utgjøre store forskjeller, men jeg lar justering bli i koden. Usikker på om width og height justering i html har gjort noen forskjell, men fikk juster størrelse i css.
