@@ -40,6 +40,6 @@ NB: Denne oppgaven trenger ikke header og footer, i hovedsak er dette en side so
   - Var ikke fornøyd med første videoen eg fant, så gikk på let etter ny... Når eg fant ny video, ser jeg at mine justeringer i iframe taggen utgjør en forskjell i sammenheng med css height width justeringen. 
 
   - Fikk feedback på at teksten bør ha max-width så den ikke strekker seg over hele nettsiden, noe jeg er enig i, men så snart jeg setter på max-width trekker all skrift seg til venstre selv om jeg har satt teksten i en div som igjen står i display-flex.
-  - etterspurte veiledning og fikk beskjed om at display-flex på være i parent-elementet som den skal justere, noe jeg egentlig burde visst/husket. Så da lager eg ny class til section for å justere dette og håpet at problemet løser seg.
+  - Etterspurte veiledning og fikk beskjed om at display-flex på være i parent-elementet som den skal justere, noe jeg egentlig burde visst/husket. Så da lager eg ny class til section for å justere dette og håpet at problemet løser seg.
 
   - Har nå samlet alle bildene i en mappe, om det er spørsmål til hvorfor det er så mange bilder, så er det fordi jeg ønsket utgvalg og mulighet til å lett kunne bygge videre på prosjektet.
