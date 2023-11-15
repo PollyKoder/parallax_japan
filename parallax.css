@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+}
+
 audio {
     display: flex;
     margin-left: auto;
@@ -23,17 +27,17 @@ main {
 
 .parallaxImg1 {
     height: 100vh;
-    background-image: url("Yama_background.jpg");
+    background-image: url("Images/Yama_background.jpg");
 }
 
 .parallaxImg2 {
     height: 800px;
-    background-image: url("ToriGate_background.jpg");
+    background-image: url("Images/ToriGate_background.jpg");
 }
 
 .parallaxImg3 {
     height: 1000px;
-    background-image: url("Gesiha_background.jpg");
+    background-image: url("Images/Gesiha_background.jpg");
 }
 
 h1 {
@@ -46,9 +50,15 @@ h1 {
     font-size: 60px;
 }
 
-.text {
+.section {
     display: flex;
+    flex-direction: column;
     align-items: center;
+    justify-content: center;
+}
+
+.text {
+    max-width: 500px;
 }
 
 .information {

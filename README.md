@@ -30,7 +30,7 @@ NB: Denne oppgaven trenger ikke header og footer, i hovedsak er dette en side so
   - Sliter med at h1 of h2 elemeter blir veldig små og vet ikke hvorfor, har juster størrelse i css.
   - margin-bottom i iframe (css) var ikke med på å ha main backgrunnsfargen, fungerte greit når jeg la inn en <br> etter iframe taggen. 
   - Har prøvd å gjøre koden noe tørrere, var bare litt tekst i tillegg til bilde css som kunne komprimeres så vidt jeg ser.
-  - Har holdet med unna <picture> da vi opplevde problemer når vi ble undervist og venter på tilbakemelding ang løsning.
+  - Har holdet meg unna <picture> da vi opplevde problemer når vi ble undervist og venter på tilbakemelding ang løsning.
   - Korrigerte bakgrunnsfarge til å samsvare med det Japanske flagget.
   - Audio: Musikk laget av Aleksey Chistilin  hentet fra Pixabay, låtnavn: Inspiring Cinematic Asia.
   - Video: fra youtube-kanal "rj aguirre"
@@ -38,3 +38,8 @@ NB: Denne oppgaven trenger ikke header og footer, i hovedsak er dette en side so
 
   - Prøver å justere iframe width og height, fjerner all justering om det ikkje virker. ...Later ikke til å utgjøre store forskjeller, men jeg lar justering bli i koden. Usikker på om width og height justering i html har gjort noen forskjell, men fikk juster størrelse i css.
   - Var ikke fornøyd med første videoen eg fant, så gikk på let etter ny... Når eg fant ny video, ser jeg at mine justeringer i iframe taggen utgjør en forskjell i sammenheng med css height width justeringen. 
+
+  - Fikk feedback på at teksten bør ha max-width så den ikke strekker seg over hele nettsiden, noe jeg er enig i, men så snart jeg setter på max-width trekker all skrift seg til venstre selv om jeg har satt teksten i en div som igjen står i display-flex.
+  - etterspurte veiledning og fikk beskjed om at display-flex på være i parent-elementet som den skal justere, noe jeg egentlig burde visst/husket. Så da lager eg ny class til section for å justere dette og håpet at problemet løser seg.
+
+  - Har nå samlet alle bildene i en mappe, om det er spørsmål til hvorfor det er så mange bilder, så er det fordi jeg ønsket utgvalg og mulighet til å lett kunne bygge videre på prosjektet.
