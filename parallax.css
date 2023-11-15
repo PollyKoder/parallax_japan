@@ -85,7 +85,7 @@ iframe {
 
 /* @media (max-width:425px) {
     .parallaxImage {
-        background-size: contain;
+        background-size: cover;
         max-width: 100%;
     }
 } */
