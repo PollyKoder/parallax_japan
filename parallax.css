@@ -80,3 +80,12 @@ iframe {
     width:750px;
     margin-bottom: 70px;
 }
+
+
+
+@media (max-width:425px) {
+    .parallaxImage {
+        background-size: 100%;
+        max-width: 100vw;
+    }
+}
