@@ -43,3 +43,5 @@ NB: Denne oppgaven trenger ikke header og footer, i hovedsak er dette en side so
   - Etterspurte veiledning og fikk beskjed om at display-flex på være i parent-elementet som den skal justere, noe jeg egentlig burde visst/husket. Så da lager eg ny class til section for å justere dette og håpet at problemet løser seg.
 
   - Har nå samlet alle bildene i en mappe, om det er spørsmål til hvorfor det er så mange bilder, så er det fordi jeg ønsket utgvalg og mulighet til å lett kunne bygge videre på prosjektet.
+
+  - Har prøvd å få bildene til å fungere bedre i mobil display med media query, men det har så langt ikke fungert slik det skal. La til meta charset="viewport" slik at media query ble registrert og reaktivt, men da ble alle dimensjoner feil, til og med bakgrunnen ble for liten for displayet. Har nå kommentert ut meta charset, slik at media query ikke er aktivt, siden ser bedre ut nå og er funksjonabel. Frem til jeg finner mer viten om hva som går gale og hvordan jeg fikser det, lar jeg den står slik.
